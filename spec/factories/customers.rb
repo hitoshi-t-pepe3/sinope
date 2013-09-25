@@ -1,4 +1,4 @@
-# -*- endocing: utf-8 -*-
+# -*- encoding: utf-8 -*-
 FactoryGirl.define do
   factory :customer do
     family_name '山田'
